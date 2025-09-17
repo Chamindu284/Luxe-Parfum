@@ -12,11 +12,7 @@ Monorepo with backend (Node/Express/MongoDB Atlas) and frontend (React + Vite, T
 1. Create `backend/.env` based on the example:
 
 ```
-PORT=5000
-NODE_ENV=development
-MONGODB_URI=mongodb+srv://<username>:<password>@<cluster>/<dbName>?retryWrites=true&w=majority
-JWT_SECRET=supersecretjwt
-```
+
 
 2. Install and run:
 
